@@ -30,13 +30,13 @@ CMeKG 中主要模型工具包括 医学文本分词，医学实体识别和医�
 
 由于依赖和训练好的的模型较大，将模型放到了百度网盘中，链接如下，按需下载。
 
-RE：链接:https://pan.baidu.com/s/1cIse6JO2H78heXu7DNewmg  密码:4s6k
+RE：链接:https://pan.baidu.com/s/1cIse6JO2H78heXu7DNewmg  密码:4s6k（百度网盘-机器学习-cmekg-模型-re.tar.gz）
 
 
-NER: 链接:https://pan.baidu.com/s/16TPSMtHean3u9dJSXF9mTw  密码:shwh
+NER: 链接:https://pan.baidu.com/s/16TPSMtHean3u9dJSXF9mTw  密码:shwh（百度网盘-机器学习-cmekg-模型-ner.tar.gz）
 
 
-分词：链接:https://pan.baidu.com/s/1bU3QoaGs2IxI34WBx7ibMQ  密码:yhek
+分词：链接:https://pan.baidu.com/s/1bU3QoaGs2IxI34WBx7ibMQ  密码:yhek（百度网盘-机器学习-cmekg-模型-cws.tar.gz）
 
 ## 依赖库
 
